@@ -1,6 +1,6 @@
  Hi, I’m Oshan Rathnayka
- I’m interested in machine Learning Data Science
- I’m currently pursuing artificial intelligence and data science
+ I’m interested in machine Learning and  Data Science
+ I’m currently pursuing artificial intelligence and Data science in Robert Gordarn University
 
 
 <!---
